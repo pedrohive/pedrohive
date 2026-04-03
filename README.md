@@ -30,5 +30,5 @@ Construir um conhecimento consistente e profundo em Ciência da Computação, ev
 
 📫 Contato:
 
-* Email: [pedrohive7@gmail.com]
-* LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-souza-65956b2a9/?trk=public-profile-join-page]
+* Email: pedrohive7@gmail.com
+* LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-souza-65956b2a9/?trk=public-profile-join-page
