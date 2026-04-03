@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 Olá, eu sou o Joao Pedro!
 
-<!--
-**pedrohive/pedrohive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação, atualmente no início da minha jornada na área de tecnologia.
 
-Here are some ideas to get you started:
+📚 Tenho um forte interesse em compreender a base da computação, buscando aprender não apenas a prática, mas principalmente a teoria por trás dos sistemas, algoritmos e estruturas que sustentam o desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Estou focado em desenvolver uma base sólida em:
+
+* Lógica de programação
+* Estruturas de dados
+* Algoritmos
+* Fundamentos da computação
+
+🚀 Atualmente estudando:
+
+* Git e GitHub
+* Java
+* Conceitos fundamentais da programação
+* Raciocínio lógico e resolução de problemas
+
+📈 Objetivo:
+Construir um conhecimento consistente e profundo em Ciência da Computação, evoluindo gradualmente para me tornar um desenvolvedor bem fundamentado, capaz de entender e aplicar soluções de forma eficiente.
+
+🔧 Ferramentas:
+
+* Java
+* Git e GitHub
+* NetBeans
+* Intellij
+
+📫 Contato:
+
+* Email: [pedrohive7@gmail.com]
+* LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-souza-65956b2a9/?trk=public-profile-join-page]
