@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">João Pedro dos Santos Souza</h1>
+<h3 align="center">🎓 Graduando em Ciência da Computação — UNISUL</h3>
 
-<!--
-**pedrohive/pedrohive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-pedro-dos-santos-souza">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+/**
+ * @author João Pedro dos Santos Souza
+ * @since  Graduação em Ciência da Computação — UNISUL
+ */
+public class JoaoPedro extends Estudante {
+
+    String curso        = "Ciência da Computação";
+    String instituicao  = "UNISUL — Santa Catarina, Brasil";
+
+    String[] interesses = { "Algoritmos", "Estruturas de Dados",
+                            "Engenharia de Software", "Computação em Nuvem" };
+
+    String[] stack      = { "Java", "Git", "Google Cloud" };
+    String estudandoAgora = "Google Cloud Digital Leader";
+
+    String contato() {
+        return "linkedin.com/in/joao-pedro-dos-santos-souza";
+    }
+}
+```
+
+---
+
+## 📚 Sobre
+
+Sou estudante de **Ciência da Computação** (UNISUL).
+Meu foco está nos fundamentos da computação: algoritmos, estruturas de dados, programação
+orientada a objetos e arquitetura de sistemas em nuvem.
+
+## 🔬 Áreas de interesse
+
+- Algoritmos e estruturas de dados
+- Programação orientada a objetos (Java)
+- Engenharia de software
+- Computação em nuvem e transformação digital
+- Lógica e filosofia da computação
+
+## 🏅 Formação complementar
+
+- ☁️ Trilha **Google Cloud Digital Leader** (em andamento)
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
