@@ -49,6 +49,8 @@ orientada a objetos e arquitetura de sistemas em nuvem.
 ## 🏅 Formação complementar
 
 - ☁️ Trilha **Google Cloud Digital Leader** (em andamento)
+- 📚 Rocketseat - Fundamentos de Java (em andamento)
+- 📚 Rocketseat - Git e GitHub: Guia definitivo na era da IA (concluido)
 
 ## 🛠️ Tecnologias
 
