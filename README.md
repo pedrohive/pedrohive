@@ -29,31 +29,7 @@ public class JoaoPedro extends Estudante {
     }
 }
 ```
-
 ---
-
-## 📚 Sobre
-
-Sou estudante de **Ciência da Computação** (UNISUL).
-Meu foco está nos fundamentos da computação: algoritmos, estruturas de dados, programação
-orientada a objetos e arquitetura de sistemas em nuvem.
-
-## 🔬 Áreas de interesse
-
-- Algoritmos e estruturas de dados
-- Programação orientada a objetos (Java)
-- Engenharia de software
-- Computação em nuvem e transformação digital
-- Lógica e filosofia da computação
-
-## 🏅 Formação complementar
-
-- ☁️ Trilha **Google Cloud Digital Leader** (em andamento)
-- 📚 Rocketseat - Fundamentos de Java (em andamento)
-- 📚 Rocketseat - Git e GitHub: Guia definitivo na era da IA (concluido)
-
-## 🛠️ Tecnologias
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
